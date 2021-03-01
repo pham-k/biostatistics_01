@@ -16,3 +16,6 @@ COURSE_ID: 202002
 
 [Form làm bài](https://forms.gle/Sv4amsp6uBxrr7Fd9)
 
+## Meet
+
+[01/03/2021 15g30 - 17g20](https://meet.google.com/vor-ihvk-ocw)
