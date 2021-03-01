@@ -47,7 +47,7 @@ COURSE_ID: 202002
   - [ ] (mối liên hệ giữa) 1 định tính + 1 định lượng 
   - [ ] (mối liên hệ giữa) 2 định tính
   - [ ] (mối liên hệ giữa) 2 định lượng 
-- [ ] Phân biệt và giải thích ý nghĩa (nếu có) của các khái niệm
+- [ ] Trình bày định nghĩa, giải thích ý nghĩa và phân biệt của các khái niệm
   - [ ] Tần số vs Giá trị
   - [ ] Chuyển đổi biến số vs Mã hóa biến số
   - [ ] Dân số đich vs Dân số nghiên cứu vs Mẫu
@@ -57,3 +57,10 @@ COURSE_ID: 202002
   - [ ] Giả thuyết không vs Giả thuyết thay thế
   - [ ] Sai lầm loại 1 vs Sai lầm loại 2 vs Độ mạnh vs Giá trị p
   - [ ] RR, OR
+  - [ ] Hệ số hồi quy, hệ số xác định
+- [ ] Đọc được các biểu đồ
+  - [ ] Boxplot
+  - [ ] Histogram
+  - [ ] Scatter plot
+  - [ ] Đường biểu diễn TSTĐD
+- [ ] Tính được
