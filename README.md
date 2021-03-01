@@ -33,4 +33,27 @@ COURSE_ID: 202002
   - [ ] Biến định lượng có phân phối bình thường
   - [ ] Biến định lượng có phân phối không bình thường/ không đối xứng
   - [ ] Biến định tính
-  - [ ] 
+- [ ] Lựa chọn giới hạn sinh lý bình thường trong trường hợp
+  - [ ] Biến định lượng có phân phối bình thường
+  - [ ] Biến định lượng có phân phối không bình thường/ không đối xứng
+- [ ] Lựa chọn kiểm định thống kê (khi thỏa ĐK* và không thỏa ĐK*) trong các trường hợp
+  - [ ] So sánh 1 số trung bình quan sát và 1 số trung bình lý thuyết
+  - [ ] So sánh 2 số trung bình của 2 mẫu độc lập
+  - [ ] So sánh 2 số trung bình của 2 mẫu bắt cặp
+  - [ ] So sánh tỷ lệ quan sát và tỷ lệ lý thuyết
+  - [ ] So sánh 2 tỷ lệ của 2 mẫu độc lập
+  - [ ] So sánh 2 tỷ lệ của 2 mẫu bắt cặp
+- [ ] Lựa chọn cách xác định tương quan, độ mạnh tương quan, hình thức trình bày số liệu trong các trường hợp
+  - [ ] (mối liên hệ giữa) 1 định tính + 1 định lượng 
+  - [ ] (mối liên hệ giữa) 2 định tính
+  - [ ] (mối liên hệ giữa) 2 định lượng 
+- [ ] Phân biệt và giải thích ý nghĩa (nếu có) của các khái niệm
+  - [ ] Tần số vs Giá trị
+  - [ ] Chuyển đổi biến số vs Mã hóa biến số
+  - [ ] Dân số đich vs Dân số nghiên cứu vs Mẫu
+  - [ ] Sai số chuẩn vs Độ lệch chuẩn
+  - [ ] Bách phân vị
+  - [ ] Khoảng tin cậy vs Giới hạn sinh lý bình thường
+  - [ ] Giả thuyết không vs Giả thuyết thay thế
+  - [ ] Sai lầm loại 1 vs Sai lầm loại 2 vs Độ mạnh vs Giá trị p
+  - [ ] RR, OR
