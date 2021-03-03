@@ -30,6 +30,9 @@ COURSE_ID: 202002
 
 # Checklist
 
+
+# Checklist
+
 - [ ] Phân loại biến số
 - [ ] Lựa chọn hình thức trình bày số liệu cụ thể
   - [ ] 1 định tính
@@ -55,7 +58,7 @@ COURSE_ID: 202002
   - [ ] (mối liên hệ giữa) 1 định tính + 1 định lượng 
   - [ ] (mối liên hệ giữa) 2 định tính
   - [ ] (mối liên hệ giữa) 2 định lượng 
-- [ ] Trình bày định nghĩa, giải thích ý nghĩa và phân biệt của các khái niệm
+- [ ] Trình bày định nghĩa, giải thích ý nghĩa, phân biệt và áp dụng các khái niệm:
   - [ ] Tần số vs Giá trị
   - [ ] Chuyển đổi biến số vs Mã hóa biến số
   - [ ] Dân số đich vs Dân số nghiên cứu vs Mẫu
@@ -72,3 +75,12 @@ COURSE_ID: 202002
   - [ ] Scatter plot
   - [ ] Đường biểu diễn TSTĐD
 - [ ] Tính được
+  - [ ] Trung bình
+  - [ ] Trung vị
+  - [ ] Mode
+  - [ ] Biên độ
+  - [ ] Phương sai
+  - [ ] Độ lệch chuẩn
+  - [ ] OR
+  - [ ] RR
+- [ ] Thực hiện được các kiểm định
