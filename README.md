@@ -18,7 +18,9 @@ COURSE_ID: 202002
 
 # Meet
 
-[01/03/2021 15g30 - 17g20](https://meet.google.com/vor-ihvk-ocw)
+[Meet 1](https://meet.google.com/vor-ihvk-ocw)
+
+[Meet 2 (backup)](https://meet.google.com/eam-uspu-jgg)
 
 # Checklist
 
