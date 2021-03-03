@@ -10,11 +10,17 @@ COURSE_ID: 202002
 
 # Forms đánh giá chuyên cần
 
-## Bài 2: Biến số
+## Bài 2
 
 [![Generic badge](https://img.shields.io/badge/Status-Active-green.svg)](https://forms.gle/Sv4amsp6uBxrr7Fd9)
 
 [Form làm bài](https://forms.gle/Sv4amsp6uBxrr7Fd9)
+
+## Bài 3, 4
+
+[![Generic badge](https://img.shields.io/badge/Status-Active-green.svg)](https://forms.gle/79JFyEed6jYJq5ua6)
+
+[Form làm bài](https://forms.gle/79JFyEed6jYJq5ua6)
 
 # Meet
 
