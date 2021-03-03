@@ -68,6 +68,7 @@ COURSE_ID: 202002
   - [ ] Giả thuyết không vs Giả thuyết thay thế
   - [ ] Sai lầm loại 1 vs Sai lầm loại 2 vs Độ mạnh vs Giá trị p
   - [ ] RR, OR
+  - [ ] Phương trình hồi quy
   - [ ] Hệ số hồi quy, hệ số xác định
 - [ ] Đọc được các biểu đồ
   - [ ] Boxplot
