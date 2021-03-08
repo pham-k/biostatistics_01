@@ -26,10 +26,7 @@ COURSE_ID: 202002
 
 [Meet 1](https://meet.google.com/vor-ihvk-ocw)
 
-[Meet 2 (backup)](https://meet.google.com/eam-uspu-jgg)
-
-# Checklist
-
+[Meet 2 (backup)](https://meet.google.com/itz-yimu-geh)
 
 # Checklist
 
@@ -82,6 +79,15 @@ COURSE_ID: 202002
   - [ ] Biên độ
   - [ ] Phương sai
   - [ ] Độ lệch chuẩn
+  - [ ] Sai số chuẩn của số trung bình
+  - [ ] Sai số chuẩn của tỷ lệ
+  - [ ] Khoảng tin cậy của số trung bình
+  - [ ] Khoảng tin cật của tỷ lệ
   - [ ] OR
   - [ ] RR
 - [ ] Thực hiện được các kiểm định
+  - [ ] T một mẫu
+  - [ ] T độc lập
+  - [ ] T bắt cặp
+  - [ ] Chi bình phương goodness-of-fit
+  - [ ] Chi bình phương independence
