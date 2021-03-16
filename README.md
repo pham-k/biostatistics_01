@@ -51,6 +51,7 @@ COURSE_ID: 202002
   - [ ] So sánh tỷ lệ quan sát và tỷ lệ lý thuyết
   - [ ] So sánh 2 tỷ lệ của 2 mẫu độc lập
   - [ ] So sánh 2 tỷ lệ của 2 mẫu bắt cặp
+- [ ] Biện luận kết quả kiểm định 
 - [ ] Lựa chọn cách xác định tương quan, độ mạnh tương quan, hình thức trình bày số liệu trong các trường hợp
   - [ ] (mối liên hệ giữa) 1 định tính + 1 định lượng 
   - [ ] (mối liên hệ giữa) 2 định tính
