@@ -26,7 +26,7 @@ COURSE_ID: 202002
 
 [Meet 1](https://meet.google.com/vor-ihvk-ocw)
 
-[Meet 2 (backup)](https://meet.google.com/itz-yimu-geh)
+[Meet 2 (backup)](https://meet.google.com/pgg-gjbw-ssk)
 
 # Checklist
 
